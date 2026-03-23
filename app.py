@@ -1,3 +1,5 @@
+st.title("🚀 Customer Churn Prediction System")
+st.markdown("Predict customer churn using Machine Learning")
 import streamlit as st
 import numpy as np
 import joblib
