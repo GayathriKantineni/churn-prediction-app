@@ -78,7 +78,7 @@ This project aims to:
 
 ## 🌐 Live Demo
 
-👉 
+👉 https://churn-prediction-app-got3fepeyjxogqzkghrdho.streamlit.app/
 
 ---
 
